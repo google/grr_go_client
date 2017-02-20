@@ -1,0 +1,9 @@
+This is not an official Google product.
+
+GRR Go client
+
+Running:
+
+go run grrclient.go
+
+The parent project - GRR - can be found at github.com/google/grr .
